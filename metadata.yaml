@@ -1,0 +1,37 @@
+_repo: Really-so-stories_68902
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McCrae, John
+    birthdate: 1872
+    deathdate: 1918
+    gutenberg_agent_id: '194'
+    url: http://www.gutenberg.org/2009/agents/194
+    wikipedia: https://en.wikipedia.org/wiki/John_McCrae
+creator:
+  author:
+    agent_name: Gordon, Elizabeth
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '44043'
+    url: http://www.gutenberg.org/2009/agents/44043
+description: ''
+gutenberg_issued: '2022-09-04'
+identifiers:
+  gutenberg: '68902'
+language: en
+pgterms:marc904: https://archive.org/details/reallysostories00gord/page/n5/mode/2up
+pgterms:marc905: 20210725160106gordon
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :P. F. Voffand Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Really so stories
+url: http://www.gutenberg.org/ebooks/68902
