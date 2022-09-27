@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '194'
     url: http://www.gutenberg.org/2009/agents/194
     wikipedia: https://en.wikipedia.org/wiki/John_McCrae
+covers:
+- cover_type: archival
+  image_path: 68902-h/images/backcover.jpg
 creator:
   author:
     agent_name: Gordon, Elizabeth
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '44043'
     url: http://www.gutenberg.org/2009/agents/44043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68902#Really-so-stories
 gutenberg_issued: '2022-09-04'
 identifiers:
   gutenberg: '68902'
